@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.mikirinkode.businesscardapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.mikirinkode.businesscardapp"
